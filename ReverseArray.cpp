@@ -29,4 +29,5 @@ int main()
 	printArr(arr1, 5);
 	reverseArr(arr1, 4);
 	printArr(arr1, 5);
+	return 0;
 }
